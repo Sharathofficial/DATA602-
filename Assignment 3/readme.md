@@ -23,5 +23,10 @@ Data has been extracted from Kaggle : https://www.kaggle.com/jagjeet555/medical-
 **charges**: Individual medical costs billed by health insurance
 
 
-# Future Work
-Implementation of Various regression algorithm and predicting the Isurance amount based on other variables.
+# Business Question/Problem Statement
+Implementation of  regression algorithm and predicting the Isurance amount based on other variables.
+
+# EDA Observations
+BMI has a outlier of above 45 and charges range from 1000 to 60000 As we observed above Sex and Region are categorical variable for the further regression we need to encode these values into numerical and then apply the Regression Algorithm
+
+# Regression Results
