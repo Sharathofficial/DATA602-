@@ -30,3 +30,10 @@ Implementation of  regression algorithm and predicting the Isurance amount based
 BMI has a outlier of above 45 and charges range from 1000 to 60000 As we observed above Sex and Region are categorical variable for the further regression we need to encode these values into numerical and then apply the Regression Algorithm
 
 # Regression Results
+## StatModel Linear 
+#### Intial Result
+R2 is 87% means the model is capturing 87% variance in the data
+There is no strong coorelation in any of the variable
+Age and smoking are the main factor for insurance charges because of high t- statstics
+We can't see any linear trend with Actual and predicted strengths
+When we compare the charges with all the variables we could not see any proper trend
