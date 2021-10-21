@@ -34,6 +34,9 @@ Using the Logistic Regression predicting the target variable class.
 # EDA Observations
 There is strong positve or negative correlation between any variables but BMI and Plasma Glucose and Age has correlation between the Class variable.
 
-# Regression Results
+# Logistic Regression Results
+
+We were able to predict the class variable with accuracy 75% and in validation we used GridCV with folds 10 and scoring recall has the dataset were unbalanced and we again got the same 75% accuracy and no benifit of performing cv
+
 
 
