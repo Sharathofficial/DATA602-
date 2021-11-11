@@ -42,4 +42,4 @@ engine
 arr_delay
 
 ### EDA 
-We observed that there are no postive co-relation between column wheb compared to arr_delay
+We observed that there are no postive co-relation between column when compared with arr_delay(predicted variable)
