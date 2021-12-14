@@ -19,3 +19,4 @@ The data set used was provided by Mexico's Epidemiological Surveillance System f
 This data set is available for download using below link.
 https://www.gob.mx/salud/documentos/datos-abiertos-152127
 ### Data Description
+![image](https://user-images.githubusercontent.com/60420184/145940129-d60c65d5-6225-4b32-8852-f06241947f15.png)
