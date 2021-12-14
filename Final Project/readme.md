@@ -33,7 +33,7 @@ Early COVID-19 prediction can aid in minimizing the undue burden on healthcare s
 We only took the data of one day so after our intial analysis and with data preperation we left with 5000 to 6000 records out 91188. Data was imbalenced only the negative result data was more. For our Future work we try to combine 1 year data and check how the models predicts. 
 
 ## References
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7694891/
-https://www.gob.mx/salud/documentos/datos-abiertos-152127
-https://www.geeksforgeeks.org/plot-a-pie-chart-in-python-using-matplotlib/
+1. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7694891/
+2. https://www.gob.mx/salud/documentos/datos-abiertos-152127
+3. https://www.geeksforgeeks.org/plot-a-pie-chart-in-python-using-matplotlib/
 
